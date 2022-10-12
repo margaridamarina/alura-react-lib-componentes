@@ -1,0 +1,4 @@
+### Iniciando aplicação
+```
+yarn storybook
+```

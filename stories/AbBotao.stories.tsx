@@ -1,5 +1,5 @@
 import React from "react";
-import { AbBotao } from '../src/componentes'
+import { AbBotao } from '../src/componentes/AbBotao'
 import { ComponentMeta, ComponentStory } from '@storybook/react'
 
 export default {

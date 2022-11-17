@@ -25,14 +25,14 @@ const InputEstilizado = styled.input`
     box-sizing: border-box;
 `
 
-export interface CampoTextoProps {
+export interface AbCampoTextoProps {
     label: string;
     value: string;
     type?: 'text' | 'email' | 'password' | 'date';
     onChange: (value: string) => void
 }
 
-export const AbCampoTexto = ({ label, value, onChange, type = 'text' } : CampoTextoProps) => {
+export const AbCampoTexto = ({ label, value, onChange, type = 'text' } : AbCampoTextoProps) => {
     return (
         <div>
             <LabelEstilizada>

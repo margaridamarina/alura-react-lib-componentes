@@ -18,7 +18,7 @@ export * from './componentes/AbBotao';
 export * from './componentes/AbGrupoOpcoes';
 export * from './componentes/AbTag';
 export * from './componentes/Card';
-export * from './componentes/CampoTexto';
+export * from './componentes/AbCampoTexto';
 
 
 
